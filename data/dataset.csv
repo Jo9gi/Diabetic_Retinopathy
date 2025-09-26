@@ -1,0 +1,6 @@
+exudates_count,hemorrhages_count,microaneurysms_count,vessel_tortuosity,faz_area,macular_thickness,rnfl_thickness,deep_feature_1,deep_feature_2,deep_feature_3,age,systolic_bp,diastolic_bp,fasting_glucose,hba1c,diabetes_duration,history_hypertension,visual_acuity,retinal_disorder,severity
+2,3,5,0.3,0.4,250,95,0.2,0.3,0.1,45,130,85,110,6.5,5,0,0.8,0,0
+5,8,12,0.6,0.3,280,88,0.5,0.6,0.4,62,150,95,140,8.2,12,1,0.6,1,1
+1,2,3,0.2,0.5,240,100,0.1,0.2,0.1,38,120,80,95,5.8,2,0,0.9,0,0
+8,15,25,0.8,0.2,320,75,0.8,0.9,0.7,68,170,105,180,10.1,18,1,0.4,1,2
+0,1,2,0.1,0.6,235,105,0.05,0.1,0.05,35,115,75,88,5.2,1,0,1.0,0,0
